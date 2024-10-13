@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "tqj7sgHFj3HAZvTXs8wsZInh3nTEx8CwPNFbsRyOZsk=",
+  "Source": "Atividade2",
+  "BasePath": "_content/Atividade2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Atividade2\\wwwroot",
+      "Source": "Atividade2",
+      "ContentRoot": "C:\\Users\\ADRIANA\\Desktop\\Codificação para Front-End\\Codificação para Back-End\\sp3 atividade 2\\Atividade2\\wwwroot\\",
+      "BasePath": "_content/Atividade2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ADRIANA\\Desktop\\Codificação para Front-End\\Codificação para Back-End\\sp3 atividade 2\\Atividade2\\wwwroot\\index.html",
+      "SourceId": "Atividade2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADRIANA\\Desktop\\Codificação para Front-End\\Codificação para Back-End\\sp3 atividade 2\\Atividade2\\wwwroot\\",
+      "BasePath": "_content/Atividade2",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
